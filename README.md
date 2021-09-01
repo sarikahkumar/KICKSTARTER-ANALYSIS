@@ -15,41 +15,39 @@ As detailed below, our data analysis is based on the following two criteria, (i)
 ---
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/89427676/131590630-3471aaa7-647e-4a01-84a1-8a1d760bb984.png)
 
-- As shown above, a monthwise comparison of outcomes(Succesful, failed, Canceled) for theater campaigns was done. It was observed that,
-- 
-  1. Number of theater campaigns were higher during the months May, June, July and August
-  2. Successfull campaigns were higher during May and June.
+As shown above, a monthwise comparison of outcomes (Succesful, failed, Canceled) for theater campaigns was done. It was observed that,
+   1. Number of theater campaigns were higher during the months May, June, July and August
+   2. Successfull campaigns were higher during May and June.
 ---
 ### **Analysis of Outcomes Based on Goals**
 ---
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89427676/131591108-e29cf6dd-447d-4e3e-87dc-d7b4ed11df50.png)
 
-As shown above, a comparison of outcomes(Succesful, failed, Canceled) based on their goal amounts for the sub category _Plays_ was done. The goal amounts were divided into twelve categories to get a better picture of the data. It was observed that,
-  1. The number of successful _Plays_ were higher for goal amounts of less than $5,000.00
-  2. None of the campaigns under the sub category _Plays_ were canceled.
+As shown above, a comparison of outcomes (Succesful, failed, Canceled) based on their goal amounts for the sub category _Plays_ was done. The goal amounts were divided into twelve categories to get a better picture of the data. It was observed that,
+   1. The number of successful _Plays_ were higher for goal amounts of less than $5,000.00
+   2. None of the campaigns under the sub category _Plays_ were canceled.
 ---
 ### **Challenges and Difficulties Encountered**
 ---
-- If Louise could have specified where she wanted to conduct the _Play _we could have arrived at a realistic conclusion. A location wise analysis is directly related to the outcome of a campaign.
----
+If Louise could have specified where she wanted to conduct the _Play_ we could have arrived at a realistic conclusion. A location wise analysis is directly related to the outcome of a campaign.
+
 ## **Results**
 ---
-1.What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - Demand for _Plays_ were maximum during the month of May. 
----
 - Success probability appears higher during the months of May and June, with around 67% success
 ---
-2.What can you conclude about the Outcomes based on Goals?
+2. What can you conclude about the Outcomes based on Goals?
 
 - _Plays_ with smaller goal amounts (less than $5,000.00) has higher probability for success.
 - More than half of the total plays had a goal amount of less than $5,000.00. To be more specific, Louise can expect comparatively higher success with a goal amount between    $1,000.00 and $5,000.00
 ---
-3.What are some limitations of this dataset?
+3. What are some limitations of this dataset?
 
 - The total number of projects were 1042, out of which projects with goal amount >$15000 appeared as outliers (around 8% )which skewed the average success percentage to a considerable extent. In order to provide a realistic conclusion, these data should be excluded.
 ---
-4.What are some other possible tables and/or graphs that we could create?
+4. What are some other possible tables and/or graphs that we could create?
 
 - A table showing monthwise percentage of outcomes based on launch date.
 - A table showing descriptive statistics for the outcomes based on goals.
